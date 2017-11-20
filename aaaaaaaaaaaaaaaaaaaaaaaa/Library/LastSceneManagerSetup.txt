@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/defoult.unity
-  isLoaded: 1
-  isActive: 1
